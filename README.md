@@ -59,11 +59,11 @@ The APK is **not** inside the code files. Download it from the **Releases** sect
 
 1. Open the [**Releases page**](https://github.com/Karthikprabhu07/billing-app/releases/latest), or click **Releases** in the right-hand sidebar of this repo's main page.
 2. Under the latest release, scroll to the **Assets** section.
-3. Tap **`Karthik_Co.apk`** to download it.
+3. Tap **`Karthik.Co.apk`** to download it.
 
 ### How to install
 1. If you downloaded the file on a computer, copy it to your Android phone.
-2. Open `Karthik_Co.apk` and tap **Install**.
+2. Open `Karthik.Co.apk` and tap **Install**.
    - If prompted, allow **"Install unknown apps"** for your browser or file manager.
    - If Google Play Protect shows a warning, tap **More details → Install anyway**.
 3. Launch the app from your app drawer.
