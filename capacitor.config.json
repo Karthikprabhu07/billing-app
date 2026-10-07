@@ -1,0 +1,13 @@
+{
+  "appId": "com.karthik.billingapp",
+  "appName": "karthik-billing-app",
+  "webDir": "dist",
+  "plugins": {
+    "StatusBar": {
+      "overlaysWebView": false
+    }
+  },
+  "android": {
+    "adjustMarginsForEdgeToEdge": "auto"
+  }
+}
